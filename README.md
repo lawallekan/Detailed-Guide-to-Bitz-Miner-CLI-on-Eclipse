@@ -167,6 +167,3 @@ Use Contabo for a reliable and affordable VPS:
 ---
 ```
 
----
-
-Let me know if you'd like a **PDF, Notion link**, or bundled version with the **import wallet guide** for beginners + advanced users combined.
